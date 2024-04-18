@@ -27,7 +27,9 @@ In this assignment, I created a Node.js and Express application named "Asn4" aim
     - Explored the effects of removing `await` from asynchronous tasks.
     - Discussed designing the functionality using Promises.
 
-Detailed steps and screenshots for each task are provided in the accompanying Word file available in the GitHub repository.
+## Additional Steps and Screenshots
+
+For additional steps and screenshots, please refer to the Word file located in the [ITE5315-asn4](https://github.com/yashpatel05/ITE5315-asn4/blob/master/ITE5315_Assignment4_Yash_Patel.docx).
 
 ## Author
 
