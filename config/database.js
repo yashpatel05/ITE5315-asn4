@@ -1,3 +1,3 @@
 module.exports = {
-    url : "mongodb+srv://pyash7224:yash1998@clusterfirstproject.zorofv7.mongodb.net/carsales"
+    url : "your_mongo_db_url"
 };
